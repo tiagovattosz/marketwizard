@@ -1,6 +1,8 @@
 # Marketwizard 🧙‍♂️
 > Este projeto foi desenvolvido como parte das matérias de Engenharia de Software e Banco de Dados. Trata-se de um gerenciador de estoque voltado para vendedores de marketplaces como Mercado Livre e Amazon.
 
+> obs: como o projeto foi feito usando um servidor remoto com ip público, removemos as informações sensíveis e criamos outro repositório apenas com a ultima versão do projeto.
+
 # 🛠️ Tecnologias Utilizadas
 ## Api - Backend
 - **Spring Boot**
