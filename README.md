@@ -3,6 +3,13 @@
 
 > obs: como o projeto foi feito usando um servidor remoto com ip público, removemos as informações sensíveis e criamos outro repositório apenas com a ultima versão do projeto.
 
+## ⚙️ Funcionalidades
+- Relatórios de compra e venda
+- Análise de produtos e categorias mais vendidas
+- Gestão de produtos em falta e compras não recebidas
+- Cotações de preço
+- Documentação completa disponível no Swagger
+
 # 🛠️ Tecnologias Utilizadas
 ## Api - Backend
 - **Spring Boot**
@@ -14,7 +21,7 @@
 - **Swagger** 
 - **GitHub** 
 - **IntelliJ IDEA Premium:** Desenvolvimento remoto via SSH.
-
+  
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você instalou os seguintes requisitos:
