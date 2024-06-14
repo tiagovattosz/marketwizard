@@ -32,7 +32,7 @@ Antes de começar, verifique se você instalou os seguintes requisitos:
 
 ## 🚀 Instalando
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o projeto, siga estas etapas:
 
 1. Clone o projeto
 ```
